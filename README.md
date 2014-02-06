@@ -10,7 +10,7 @@ http://rxnav.nlm.nih.gov/RxNormAPISOAP.html
 import drug_ingred
 
 drug_ingred("Vioxx")
-"rofecoxib"
+# result: "rofecoxib"
 ```
 
 ## Dependencies
